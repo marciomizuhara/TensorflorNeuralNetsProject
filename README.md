@@ -1,4 +1,4 @@
-# TensorflorNeuralNetsProject
+# Tensorflor Neural Nets Project
 This project aims at building a model that attempts to predict whether or not someone will pay back their loan based on historical information.
 
 ## Background
@@ -7,8 +7,8 @@ LendingClub is a US peer-to-peer lending company, headquartered in San Francisco
 ## Goal
 To build a model that predicts whether or not a borrower will pay back their loan based on historical information.
 
-## Required Datases
-We will be using a subset of the LendingClub DataSet obtained from Kaggle: https://www.kaggle.com/wordsforthewise/lending-club. The following should be download and extracted to the project root folder.    
+## Required Datasets
+We will be using a subset of the LendingClub DataSet obtained from Kaggle: https://www.kaggle.com/wordsforthewise/lending-club. The following should be downloaded and extracted to the project root folder.    
 * lending_club_loan_two.csv: the main dataset
 * lending_club_info.csv: an info dataset to help out describing the main dataset columns
 
