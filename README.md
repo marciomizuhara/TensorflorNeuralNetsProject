@@ -12,6 +12,16 @@ We will be using a subset of the LendingClub DataSet obtained from Kaggle: https
 * lending_club_loan_two.csv: the main dataset
 * lending_club_info.csv: an info dataset to help out describing the main dataset columns
 
+## Requirements / Libraries
+* Anaconda's Jupyter Notebook
+* Pandas 
+* Matplotlib
+* Seaborn
+* Sklearn
+* Tensorflow
+* Keras
+
+
 ## Some Exploratory Data Analysis
 
 ![plot1](https://user-images.githubusercontent.com/52802728/133906535-3906d211-a2b3-469a-8944-d4be6728c915.jpg)
